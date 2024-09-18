@@ -55,10 +55,10 @@ limits:
   max_height: 10
   max_aliases: 3
 
-preview_persisted_queries:
+persisted_queries:
   enabled: true
   safelist:
-    enabled: true
+    enabled: false
     require_id: false
 apq:
   enabled: false
